@@ -14,7 +14,7 @@ Three native Screen Time extensions (Device Activity monitor, Shield configurati
 Cloudflare authentication, German/English localization, light/dark themes, QR generation and scanning.
 `React Native` `TypeScript` `Redux`
 
-**[QuizGPT](https://github.com/M-Zaid-Tayyab/QuizGPT-Monorepo)**: generates quizzes on any topic with AI. Expo app and Node/Express backend in one Turborepo, with EAS build, submit and update pipelines.
+**QuizGPT**: generates quizzes on any topic with AI. Expo app and Node/Express backend in one Turborepo, with EAS build, submit and update pipelines.
 `Expo` `Node.js` `OpenAI` `Turborepo`
 
 **[react-native-image-compare-slider](https://github.com/M-Zaid-Tayyab/react-native-image-compare-slider)**: before/after image slider, published on [npm](https://www.npmjs.com/package/react-native-image-compare-slider).
