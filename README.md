@@ -6,7 +6,7 @@ React Native & Expo engineer based in Lahore, Pakistan. I ship production iOS an
 
 ---
 
-#### Apps I've shipped
+#### Apps I've built
 
 **GigFlow: For Gig Workers**  
 [App Store](https://apps.apple.com/us/app/gigflow-for-gig-workers/id6745483823) · [Google Play](https://play.google.com/store/apps/details?id=com.orcava.gigflowapp)  
